@@ -2,11 +2,9 @@
   "name": "assignment4-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-"scripts": {
-  "start": "node server.js"
-},
-
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -15,4 +13,3 @@
     "express": "^5.2.1"
   }
 }
-
